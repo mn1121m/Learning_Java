@@ -3,8 +3,8 @@
 - Java™ Platform, Standard Edition 8 API Specification
 - [Java8](https://docs.oracle.com/javase/8/docs/api/)
 
-Textbook
-- [생활코딩-Java1](https://opentutorials.org/course/3930)
+## Textbook
+- 생활코딩 - Java1
 
 - 명품 자바 에센셜
 
