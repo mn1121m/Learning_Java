@@ -13,4 +13,4 @@
 - 생활코딩 - "Java1"
 
 - "명품 자바 에센셜"
-<img width="200" alt="java-essential-img" src="https://image.yes24.com/goods/63041975/XL">
+  <img width="200" alt="java-essential-img" src="https://image.yes24.com/goods/63041975/XL">
