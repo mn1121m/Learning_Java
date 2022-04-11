@@ -14,4 +14,4 @@
 
 - 명품 자바 에센셜
 
-![명품 자바 에센셜 이미지](https://bookthumb-phinf.pstatic.net/cover/138/450/13845094.jpg?type=m140&udate=20210513)
+<img width="200" alt="명품 자바 에센셜 img" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.yes24.com%2FProduct%2FGoods%2F63041975&psig=AOvVaw3R0Mwy5AQvfQdDvtPeOhCv&ust=1649747750842000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDUube7i_cCFQAAAAAdAAAAABAD">
