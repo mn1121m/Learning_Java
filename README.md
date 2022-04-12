@@ -1,8 +1,8 @@
 # Learning_Java
 
-- Java™ Platform, Standard Edition 8 API Specification
+<!-- - Java™ Platform, Standard Edition 8 API Specification
 - [Java8](https://docs.oracle.com/javase/8/docs/api/)
-
+ -->
 
 ## Study
 - 생활코딩에 있는 "Java1" 강의에 대해서 복습 및 정리할 예정입니다.
@@ -10,7 +10,7 @@
 
 
 ## Textbook
-- 생활코딩 - "Java1"
+- 생활코딩 - "Java1" -> Java 제어문 / Java Method / Java Exception
 
 - "명품 자바 에센셜"
 
