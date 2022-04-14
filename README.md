@@ -10,7 +10,7 @@
 
 
 ## Textbook
-- 생활코딩 - "Java1" -> Java 제어문 / Java Method / Java Exception
+- 생활코딩 - "Java1" -> Java Control statement / Java Method / Java Exception
 
 - "명품 자바 에센셜"
 
