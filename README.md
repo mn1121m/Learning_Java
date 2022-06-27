@@ -12,4 +12,4 @@
 
 - "명품 자바 에센셜"
 
-  <img width="200" alt="java-essential-img" src="https://image.yes24.com/goods/63041975/XL">
+  <img src = "https://user-images.githubusercontent.com/83820185/175895154-786f5803-d16a-4539-8b12-0d79bcf0033a.png" width="200">
